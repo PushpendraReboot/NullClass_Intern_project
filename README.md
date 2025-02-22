@@ -11,7 +11,7 @@ A comprehensive analysis of Google Play Store apps and user reviews to uncover t
 
 ![Dashboard Preview](file:///C:/Users/push1/web%20page.html)
 
-Link to Dashboard: file:///C:/Users/push1/web%20page.html
+Link to Dashboard: (file:///C:/Users/push1/web%20page.html)(Locally Accessible)
 ---
 
 ## Table of Contents
