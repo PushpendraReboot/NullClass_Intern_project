@@ -10,7 +10,7 @@ NullClass_Internship_Project
 A comprehensive analysis of Google Play Store apps and user reviews to uncover trends, sentiment patterns, and growth opportunities. Features interactive dashboards and time-sensitive visualizations.
 
 ![Dashboard Preview](file:///C:/Users/push1/web%20page.html)
-
+Link to Dashboard: file:///C:/Users/push1/web%20page.html
 ---
 
 ## Table of Contents
